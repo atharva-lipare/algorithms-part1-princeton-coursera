@@ -22,8 +22,7 @@ javac -cp "\file\path\algs4.jar" Deque.java RandomizedQueue.java Permutation.jav
 echo Q W E R T Y I O P | java -cp "\file\path\algs4.jar;" Permutation 3
 </code>
 
-<code>algs4.jar</code> required for princeton library.
-Download algs4.jar <a href="https://drive.google.com/open?id=1Iu7h69SiqSq4QyIImicnjXeb_a3s-vYW">here</a>
+Download <code>algs4.jar</code> required for princeton library <a href="https://drive.google.com/open?id=1Iu7h69SiqSq4QyIImicnjXeb_a3s-vYW">here</a>
 
 ### ASSESSMENT SUMMARY
 
