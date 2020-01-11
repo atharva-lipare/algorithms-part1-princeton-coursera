@@ -26,3 +26,7 @@ echo Q W E R T Y I O P | java -cp "\file\path\algs4.jar;" Permutation 3
 Download algs4.jar <a href="https://drive.google.com/open?id=1Iu7h69SiqSq4QyIImicnjXeb_a3s-vYW">here</a>
 
 ### ASSESSMENT SUMMARY
+
+Correctness:  43/43 tests passed<br>
+Memory:       122/122 tests passed<br>
+Timing:       193/193 tests passed<br>
