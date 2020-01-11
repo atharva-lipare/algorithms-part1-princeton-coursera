@@ -1,7 +1,7 @@
 /* *****************************************************************************
- *  Name:
- *  Date:
- *  Description:
+ *  Name: 47#4R\/4
+ *  Date: 26/9/19
+ *  Description: 8puzzle
  **************************************************************************** */
 // https://coursera.cs.princeton.edu/algs4/assignments/8puzzle/specification.php
 import edu.princeton.cs.algs4.In;
