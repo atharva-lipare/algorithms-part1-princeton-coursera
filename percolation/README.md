@@ -10,7 +10,7 @@ The fraction of the sites opened after system starts percolating gives the perco
 PercolationStats takes two command-line arguments <i>n</i> and <i>T</i> where <i>n</i> is size-of-grid and <i>T</i> is number of 
 computation experiments.
 
-### To compile and run in Linux / MacOS
+### To compile and run in Linux / macOS
 
 <code>
 javac /file/path/algs4.jar Percolation.java PercolationStats.java
