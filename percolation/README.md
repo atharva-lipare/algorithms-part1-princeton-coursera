@@ -7,7 +7,8 @@ It's a program that estimates the percolation threshold by Monte Carlo method or
 Given an n-by-n grid, initialising all initial sites to blocked, we open the sites one by one randomly(independently) until the system percolates.
 The fraction of the sites opened after system starts percolating gives the percolation threshold.
 
-PercolationStats takes two command-line arguments <i>n</i> and <i>T</i>
+PercolationStats takes two command-line arguments <i>n</i> and <i>T</i> where <i>n</i> is size-of-grid and <i>T</i> is number of 
+computation experiments.
 
 ### To compile and run in Linux / MacOS
 
