@@ -12,22 +12,15 @@ computation experiments.
 
 ### To compile and run in Linux / macOS
 
-<code>
-javac -cp /file/path/algs4.jar Percolation.java PercolationStats.java
-
-java -cp /file/path/algs4.jar: PercolationStats 200 100
-</code>
+<code>javac -cp /file/path/algs4.jar Percolation.java PercolationStats.java</code><br>
+<code>java -cp /file/path/algs4.jar: PercolationStats 200 100</code><br>
 
 ### To compile and run in Windows
 
-<code>
-javac -cp "\file\path\algs4.jar" Percolation.java PercolationStats.java
+<code>javac -cp "\file\path\algs4.jar" Percolation.java PercolationStats.java</code><br>
+<code>java -cp "\file\path\algs4.jar;" PercolationStats 200 100</code>
 
-java -cp "\file\path\algs4.jar;" PercolationStats 200 100
-</code>
-
-<code>algs4.jar</code> required for princeton library.
-Download algs4.jar <a href="https://drive.google.com/open?id=1Iu7h69SiqSq4QyIImicnjXeb_a3s-vYW">here</a>
+Download <code>algs4.jar</code> required for princeton library <a href="https://drive.google.com/open?id=1Iu7h69SiqSq4QyIImicnjXeb_a3s-vYW">here</a>
 
 ### ASSESSMENT SUMMARY
 
