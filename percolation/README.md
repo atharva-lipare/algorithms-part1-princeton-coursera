@@ -13,17 +13,17 @@ computation experiments.
 ### To compile and run in Linux / macOS
 
 <code>
-javac /file/path/algs4.jar Percolation.java PercolationStats.java
+javac -cp /file/path/algs4.jar Percolation.java PercolationStats.java
 
-java PercolationStats 200 100
+java -cp /file/path/algs4.jar: PercolationStats 200 100
 </code>
 
 ### To compile and run in Windows
 
 <code>
-javac "/file/path/algs4.jar" Percolation.java PercolationStats.java
+javac "\file\path\algs4.jar" Percolation.java PercolationStats.java
 
-java "/file/path/algs4.jar;" PercolationStats 200 100
+java "\file\path\algs4.jar;" PercolationStats 200 100
 </code>
 
 <code>algs4.jar</code> required for princeton library.
