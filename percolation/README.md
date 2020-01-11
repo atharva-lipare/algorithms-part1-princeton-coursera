@@ -28,3 +28,9 @@ java -cp "\file\path\algs4.jar;" PercolationStats 200 100
 
 <code>algs4.jar</code> required for princeton library.
 Download algs4.jar <a href="https://drive.google.com/open?id=1Iu7h69SiqSq4QyIImicnjXeb_a3s-vYW">here</a>
+
+ASSESSMENT SUMMARY
+
+Correctness:  33/33 tests passed<br>
+Memory:       8/8 tests passed<br>
+Timing:       20/20 tests passed<br>
